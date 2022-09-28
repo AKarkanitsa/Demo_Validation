@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelValidation", "ModelValidation\ModelValidation.csproj", "{09E8B567-EF73-48E3-B3E9-C8530D5703FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfValidation", "SelfValidation\SelfValidation.csproj", "{BF1531CD-0CD0-442C-978C-780EAFB8392A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E8B567-EF73-48E3-B3E9-C8530D5703FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E8B567-EF73-48E3-B3E9-C8530D5703FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E8B567-EF73-48E3-B3E9-C8530D5703FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E8B567-EF73-48E3-B3E9-C8530D5703FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1531CD-0CD0-442C-978C-780EAFB8392A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1531CD-0CD0-442C-978C-780EAFB8392A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1531CD-0CD0-442C-978C-780EAFB8392A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1531CD-0CD0-442C-978C-780EAFB8392A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C851249F-0504-4458-A48D-C15A8FBED730}
+	EndGlobalSection
+EndGlobal
